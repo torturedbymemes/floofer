@@ -14,10 +14,8 @@ namespace Content.Shared.Humanoid
         Tail,
         Hair,
         FacialHair,
-        UndergarmentTop,    // Floofstation note: UPSTREAM LAYER, DO NOT USE
-        UndergarmentBottom, // Floofstation note: UPSTREAM LAYER, DO NOT USE
-        Underwear,
-        Undershirt,
+        UndergarmentTop,    // Floofstation note: Undershirt has been changed to this
+        UndergarmentBottom, // Floofstation note: Underwear has been changed to this
         Chest,
         Head,
         Face,
