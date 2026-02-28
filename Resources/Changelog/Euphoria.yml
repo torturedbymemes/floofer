@@ -732,3 +732,9 @@ Entries:
       message: The Panta-Rei splash screen logo.
   id: 90
   time: '2026-02-27T23:52:06.0000000+00:00'
+- author: Dunrab
+  changes:
+    - type: Add
+      message: Add more Euphoria branding to the client.
+  id: 91
+  time: '2026-02-28T04:13:05.0000000+00:00'
