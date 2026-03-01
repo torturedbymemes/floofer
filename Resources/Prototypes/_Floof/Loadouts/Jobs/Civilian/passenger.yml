@@ -224,6 +224,31 @@
   equipment:
     jumpsuit: ClothingUniformJumpsuitWorkvest
 
+- type: loadout
+  id: ClothingUniformClassicalMaidDress
+  equipment:
+    jumpsuit: ClothingUniformClassicalMaidDress
+
+- type: loadout
+  id: ClothingUniformJumpskirtJanimaid
+  equipment:
+    jumpsuit: ClothingUniformJumpskirtJanimaid
+
+- type: loadout
+  id: ClothingUniformJumpskirtJanimaidmini
+  equipment:
+    jumpsuit: ClothingUniformJumpskirtJanimaidmini
+
+- type: loadout
+  id: UniformMaid
+  equipment:
+    jumpsuit: UniformMaid
+
+- type: loadout
+  id: ClothingUniformJumpskirtTacticalMaid
+  equipment:
+    jumpsuit: ClothingUniformJumpskirtTacticalMaid
+
 # thongs
 - type: loadout
   id: ClothingThongCoder
@@ -346,6 +371,11 @@
   id: ClothingClothWrap
   equipment:
     shoes: ClothingClothWrap
+
+- type: loadout
+  id: ClothingShoesBootsWork
+  equipment:
+    shoes: ClothingShoesBootsWork
 
 # arm warmers
 - type: loadout
@@ -565,6 +595,11 @@
   id: HeadHatBlacksoft
   equipment:
     head: ClothingHeadHatBlacksoft
+
+- type: loadout
+  id: HeadHatCorpsoft
+  equipment:
+    head: ClothingHeadHatCorpsoft
 
 #neck
 - type: loadout

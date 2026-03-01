@@ -56,6 +56,11 @@
   - ClothingKimonoGreen
   - ClothingCostumeMioSkirt
   - ClothingCostumeNaota
+  - ClothingUniformClassicalMaidDress
+  - ClothingUniformJumpskirtJanimaid
+  - ClothingUniformJumpskirtJanimaidmini
+  - UniformMaid
+  - ClothingUniformJumpskirtTacticalMaid
   - ClothingThongCoder
   - ClothingThongBee
   - ClothingThongRainbow
@@ -96,6 +101,7 @@
   loadouts:
   - ClothingShoesBootsJack
   - ClothingShoesBootsCowboyFancy
+  - ClothingShoesBootsWork
   - ClothingClothWrap
   - ClothingSocksRainbow
   - ClothingSocksAce
@@ -164,3 +170,4 @@
   - HeadHatBrownFlatcap
   - HeadHatGreyFlatcap
   - HeadHatBlacksoft
+  - HeadHatCorpsoft
