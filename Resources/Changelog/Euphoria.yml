@@ -908,3 +908,13 @@ Entries:
         be there.
   id: 112
   time: '2026-03-03T08:16:39.0000000+00:00'
+- author: sprkl
+  changes:
+    - type: Fix
+      message: Felinid and Oni know their own languages again.
+    - type: Fix
+      message: Oni can learn to speak Nekomimetic as well as understand it.
+    - type: Add
+      message: Tajaran to Cat communication.
+  id: 113
+  time: '2026-03-03T08:18:31.0000000+00:00'
