@@ -75,6 +75,7 @@
 
 - type: loadoutGroup
   id: Glasses
+  parent: [FloofGlasses]
   name: loadout-group-glasses
   minLimit: 0
   loadouts:

@@ -152,6 +152,7 @@
   - OuterDenimJacket
   - OuterCorporateJacket
   - OuterCoatHyenhSweater
+  - ShrimpFishermanSuit
 
 # hats
 - type: loadoutGroup
@@ -178,3 +179,16 @@
   - HeadHatGreyFlatcap
   - HeadHatBlacksoft
   - HeadHatCorpsoft
+
+# glasses/eyewear
+- type: loadoutGroup
+  id: FloofGlasses
+  abstract: true
+  minLimit: 0
+  maxLimit: 1
+  loadouts:
+  - ClothingEyesBlindfold
+  - ClothingEyesEyepatch
+  - ClothingEyesGlassesGar
+  - ClothingEyesGlassesGarGiga
+  - ClothingEyesGlassesGarOrange

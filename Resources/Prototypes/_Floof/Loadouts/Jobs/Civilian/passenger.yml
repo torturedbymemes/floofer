@@ -609,6 +609,11 @@
   equipment:
     outerClothing: ClothingOuterCoatHyenhSweater
 
+- type: loadout
+  id: ShrimpFishermanSuit
+  equipment:
+    outerClothing: ClothingShrimpFishermanSuit
+
 # hats
 - type: loadout
   id: HeadHatHairflower
@@ -752,6 +757,27 @@
     neck: ClothingNeckNeckerchief
 
 # trinkets
+- type: loadout
+  id: FishingRodGoon
+  storage:
+    back:
+    - FishingRodGoon
+  groupBy: "fishing"
+
+- type: loadout
+  id: FishingRod
+  storage:
+    back:
+    - FishingRod
+  groupBy: "fishing"
+
+- type: loadout
+  id: FishingRodMakeshift
+  storage:
+    back:
+    - FishingRodMakeshift
+  groupBy: "fishing"
+
 - type: loadout
   id: LuxuryPen
   storage:
@@ -1060,3 +1086,32 @@
     back:
     - LewdWand
   groupBy: "lewd"
+
+# eyes/glasses
+- type: loadout
+  id: ClothingEyesBlindfold
+  equipment:
+    eyes: ClothingEyesBlindfold
+
+- type: loadout
+  id: ClothingEyesEyepatch
+  equipment:
+    eyes: ClothingEyesEyepatch
+
+- type: loadout
+  id: ClothingEyesGlassesGar
+  equipment:
+    eyes: ClothingEyesGlassesGar
+  groupBy: "silly glasses"
+
+- type: loadout
+  id: ClothingEyesGlassesGarGiga
+  equipment:
+    eyes: ClothingEyesGlassesGarGiga
+  groupBy: "silly glasses"
+
+- type: loadout
+  id: ClothingEyesGlassesGarOrange
+  equipment:
+    eyes: ClothingEyesGlassesGarOrange
+  groupBy: "silly glasses"
