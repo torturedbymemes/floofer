@@ -540,6 +540,11 @@
 
 # outer clothing (jackets)
 - type: loadout
+  id: OuterCoatPirate
+  equipment:
+    outerClothing: ClothingOuterCoatPirate
+
+- type: loadout
   id: OuterCoatBomber
   equipment:
     outerClothing: ClothingOuterCoatBomber
