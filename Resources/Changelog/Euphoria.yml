@@ -1022,3 +1022,11 @@ Entries:
         default markings.
   id: 126
   time: '2026-03-05T03:46:58.0000000+00:00'
+- author: TheRealMasterChief117
+  changes:
+    - type: Tweak
+      message: >-
+        Tweaked the sprites of the skyrat snake tails. They should look more
+        in-line with the main art style now.
+  id: 127
+  time: '2026-03-05T07:06:07.0000000+00:00'
