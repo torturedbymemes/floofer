@@ -1013,3 +1013,12 @@ Entries:
         down.
   id: 125
   time: '2026-03-05T03:44:46.0000000+00:00'
+- author: Mnemotechnician
+  changes:
+    - type: Fix
+      message: >-
+        Reduced head (top) marking points back down to 1. Please report if there
+        are any other marking points with a limit greater than 1 and forced
+        default markings.
+  id: 126
+  time: '2026-03-05T03:46:58.0000000+00:00'
