@@ -1205,3 +1205,9 @@ Entries:
       message: Fixed research disks not having their interaction sounds.
   id: 148
   time: '2026-03-07T21:24:06.0000000+00:00'
+- author: Dunrab
+  changes:
+    - type: Add
+      message: Central command said you are all smelly so they re-installed showers.
+  id: 149
+  time: '2026-03-07T21:33:26.0000000+00:00'
