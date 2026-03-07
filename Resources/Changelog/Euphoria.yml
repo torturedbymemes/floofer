@@ -1131,3 +1131,11 @@ Entries:
         injecting people on loop for 0.01 rads.
   id: 140
   time: '2026-03-07T09:52:28.0000000+00:00'
+- author: torturedbymemes
+  changes:
+    - type: Fix
+      message: >-
+        Medical Cyborgs can now use their crew monitor without worrying about
+        power conservation and ejecting the cell!
+  id: 141
+  time: '2026-03-07T09:55:35.0000000+00:00'
