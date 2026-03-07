@@ -1155,3 +1155,23 @@ Entries:
       message: Thermal cyber eye module
   id: 143
   time: '2026-03-07T10:16:50.0000000+00:00'
+- author: Dunrab
+  changes:
+    - type: Add
+      message: CJ has gloves now.
+    - type: Add
+      message: LO has gloves now.
+    - type: Add
+      message: Courier get their fancy cloths back.
+    - type: Add
+      message: >-
+        Most jobs have their thongs, thigh highs and arm warmers in their
+        loadouts.
+    - type: Tweak
+      message: HoP only requires 5 hours of command time.
+    - type: Tweak
+      message: CJ requires clerk time again & is no longer a whitelisted role.
+    - type: Fix
+      message: Fixed a few loadout issues.
+  id: 144
+  time: '2026-03-07T10:17:59.0000000+00:00'
