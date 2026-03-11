@@ -1311,3 +1311,17 @@ Entries:
         slippery anymore.
   id: 159
   time: '2026-03-11T05:18:32.0000000+00:00'
+- author: ScarlettJFG
+  changes:
+    - type: Fix
+      message: Geras get emotes now
+    - type: Fix
+      message: >-
+        Kitsune Foxform and Geras now understand what they could before
+        morphing!
+    - type: Fix
+      message: >-
+        Geras emotes now have sound...It's only male sounds though. Admittedly a
+        band-aid fix for now.
+  id: 160
+  time: '2026-03-11T05:25:48.0000000+00:00'
