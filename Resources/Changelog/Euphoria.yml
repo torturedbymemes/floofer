@@ -1303,3 +1303,11 @@ Entries:
         limited to human tones.
   id: 158
   time: '2026-03-11T05:16:45.0000000+00:00'
+- author: Dunrab
+  changes:
+    - type: Fix
+      message: >-
+        Centcomm ran out of floor polish, so certain station floors won't be as
+        slippery anymore.
+  id: 159
+  time: '2026-03-11T05:18:32.0000000+00:00'
