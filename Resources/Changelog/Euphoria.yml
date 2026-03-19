@@ -1399,3 +1399,11 @@ Entries:
       message: Yap x 100, kitsunes fox form can emote again.
   id: 171
   time: '2026-03-19T08:16:24.0000000+00:00'
+- author: Raikyr0
+  changes:
+    - type: Add
+      message: >-
+        Added Playing Cards, Cardboard, Toy Sword and Binoculars to trinket
+        loadout.
+  id: 172
+  time: '2026-03-19T08:57:19.0000000+00:00'
