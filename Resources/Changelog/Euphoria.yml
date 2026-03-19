@@ -1427,3 +1427,11 @@ Entries:
       message: Added raincoats and other outer clothing from Frontier to loadouts.
   id: 174
   time: '2026-03-19T09:48:58.0000000+00:00'
+- author: Ryunexo
+  changes:
+    - type: Add
+      message: >-
+        Ported organisational capabilities to the cargo bounty computer, helpful
+        for the disorganised or mute cargonians amongst us.
+  id: 175
+  time: '2026-03-19T10:39:19.0000000+00:00'
