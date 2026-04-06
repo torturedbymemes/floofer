@@ -723,7 +723,7 @@
     sprite: _Nuclear14/Structures/Furniture/Tables/table_settler.rsi
   - type: Construction
     graph: N14TableRecipes
-    node: start
+    node: N14TableWoodSettler
 
 - type: entity
   parent: TableWood
