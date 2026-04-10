@@ -1944,3 +1944,11 @@ Entries:
       message: Return of the small trait
   id: 245
   time: '2026-04-09T09:04:00.0000000+00:00'
+- author: Dunrab
+  changes:
+    - type: Add
+      message: >-
+        The Ghostbar is now available for round removed players or spectating
+        players to use with the character they chose for that round.
+  id: 246
+  time: '2026-04-10T03:50:51.0000000+00:00'
