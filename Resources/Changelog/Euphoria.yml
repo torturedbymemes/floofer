@@ -2103,3 +2103,13 @@ Entries:
       message: Respawn button actually respawning you.
   id: 263
   time: '2026-04-14T05:43:22.0000000+00:00'
+- author: Dunrab
+  changes:
+    - type: Add
+      message: Updated the ghostbar to have a few more vendors and a cryosleep room.
+    - type: Tweak
+      message: >-
+        Players that ghost while at the ghostbar will have their characters
+        deleted upon ghosting.
+  id: 264
+  time: '2026-04-15T03:27:59.0000000+00:00'
