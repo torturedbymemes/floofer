@@ -2157,3 +2157,14 @@ Entries:
       message: Shadekin now spawn with survival kits
   id: 269
   time: '2026-04-16T00:20:50.0000000+00:00'
+- author: Dunrab
+  changes:
+    - type: Add
+      message: >-
+        Passengers can now select a new type of pda in their loadouts in the
+        form of a collar. These new collars function the same as a pda and can
+        be worn around the neck.
+    - type: Add
+      message: Added the emotional support collars to the hops ptech.
+  id: 270
+  time: '2026-04-16T05:47:12.0000000+00:00'
