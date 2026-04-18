@@ -2234,3 +2234,9 @@ Entries:
       message: Increased Devil Spawn Chance
   id: 279
   time: '2026-04-18T01:08:56.0000000+00:00'
+- author: SyaoranFox
+  changes:
+    - type: Fix
+      message: 'Mapping for non-hosts no longer disables events or auto evac '
+  id: 280
+  time: '2026-04-18T23:17:44.0000000+00:00'
