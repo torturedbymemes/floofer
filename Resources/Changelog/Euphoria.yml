@@ -2328,3 +2328,9 @@ Entries:
         heads.
   id: 290
   time: '2026-04-23T10:07:25.0000000+00:00'
+- author: bandw2gs
+  changes:
+    - type: Add
+      message: 4 unarmed centered traits
+  id: 291
+  time: '2026-04-23T10:08:39.0000000+00:00'
