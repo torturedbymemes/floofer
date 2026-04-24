@@ -2390,3 +2390,15 @@ Entries:
       message: Added plushie of a cute red lizard with big black eyes.
   id: 298
   time: '2026-04-24T15:48:12.0000000+00:00'
+- author: Dunrab
+  changes:
+    - type: Tweak
+      message: >-
+        The ghostbar now comes with an autolathe and material silo and is
+        planetside.
+    - type: Fix
+      message: The ghostbar should no longer be a valid ninja bombing target.
+    - type: Fix
+      message: The ghostbar welcome paper should now actually have its proper text.
+  id: 299
+  time: '2026-04-24T22:40:44.0000000+00:00'
