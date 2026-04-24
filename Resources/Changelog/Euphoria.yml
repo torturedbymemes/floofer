@@ -2370,3 +2370,11 @@ Entries:
         your backpack.
   id: 295
   time: '2026-04-24T05:33:25.0000000+00:00'
+- author: sprkl
+  changes:
+    - type: Add
+      message: Added mad salvager NPC hostiles.
+    - type: Fix
+      message: Fixed Syndicate Guards sleeping the shift away.
+  id: 296
+  time: '2026-04-24T09:03:29.0000000+00:00'
