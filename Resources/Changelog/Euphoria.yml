@@ -2402,3 +2402,11 @@ Entries:
       message: The ghostbar welcome paper should now actually have its proper text.
   id: 299
   time: '2026-04-24T22:40:44.0000000+00:00'
+- author: Raikyr0
+  changes:
+    - type: Tweak
+      message: >-
+        Coffins now stop Rot, so long funerals can be conducted without needing
+        to keep the dearly departed in a unceremonial body bag.
+  id: 300
+  time: '2026-04-24T22:42:17.0000000+00:00'
