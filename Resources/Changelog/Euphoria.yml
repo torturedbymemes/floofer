@@ -2430,3 +2430,9 @@ Entries:
         May adjust in the future if needed.
   id: 303
   time: '2026-04-26T11:09:22.0000000+00:00'
+- author: SlowVelcro
+  changes:
+    - type: Add
+      message: Added plushie of a Chief Justice demon
+  id: 304
+  time: '2026-04-27T08:17:52.0000000+00:00'
