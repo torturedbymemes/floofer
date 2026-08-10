@@ -238,7 +238,6 @@ public sealed partial class DevilContractSystem : EntitySystem
     public bool IsUserValid(EntityUid user, out string failReason)
     {
         if (HasComp<CondemnedComponent>(user)
-            || HasComp<SiliconComponent>(user)
             || HasComp<BorgChassisComponent>(user))
         {
             failReason = Loc.GetString("devil-contract-no-soul-sign-failed");
